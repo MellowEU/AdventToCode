@@ -1,3 +1,7 @@
 
-d
-java:S2094"BRemove this empty class, write its code or make it an "interface".(© Αζψÿÿÿÿ8α΅²αμ1
+
+java:S2095?"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(Έθ†Ό8ό²ιμ1J$56c0cf45-98c1-47cd-8305-ccb0533dcd99
+
+java:S6204A"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(Ό•Ι‡ύÿÿÿÿ8†³ιμ1J$3976f686-0590-4a39-9a62-07a7b9726462
+s
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(χ‰ξƒ8ΐλιμ1J$80a490d6-6d66-47a9-a1b1-78e49418f2a4
